@@ -1,0 +1,20 @@
+{
+  "name": "discord-xmpp-bot",
+  "version": "1.0.0",
+  "description": "A bot that integrates Discord and XMPP functionality",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "stanza": "^12.12.0",
+    "dotenv": "^16.0.3",
+    "colors": "^1.4.0"
+  },
+  "engines": {
+    "node": ">=16.9.0"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
